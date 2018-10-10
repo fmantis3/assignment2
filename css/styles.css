@@ -1,0 +1,27 @@
+img {
+    box-shadow: 5px 5px #d00d0d;
+}
+
+.corgi-gallery 
+
+{ 
+    box-shadow: 3px 3px #00ff00;
+    height: 120px
+}
+
+#special-pic {box-shadow: 3px 3px yellow;
+height: 60px
+}
+
+.small { height: 40px;
+
+}
+
+.green
+
+{color: #00ff00;
+
+}
+.blue-border { 
+    border: 2px #0000ff solid;
+}
