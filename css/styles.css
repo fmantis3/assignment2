@@ -25,3 +25,6 @@ height: 60px
 .blue-border { 
     border: 2px #0000ff solid;
 }
+#Logo {
+    box-shadow: none;
+}
